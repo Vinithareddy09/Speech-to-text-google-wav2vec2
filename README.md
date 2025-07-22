@@ -11,8 +11,12 @@ Given a `.wav` audio file, it outputs the transcriptions from both engines side 
 
 ## 📁 Repository Structure
 
-<pre><code>```text . ├── demoaudio.wav # Sample audio file (replace with your own) ├── transcribe.py # Main script to run └── README.md # This documentation ```</code></pre>
----
+```text
+.
+├── demoaudio.wav      # Sample audio file (replace with your own)
+├── transcribe.py      # Main script to run
+└── README.md          # This documentation
+```
 
 ## ⚙️ Features
 
