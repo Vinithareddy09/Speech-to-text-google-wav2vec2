@@ -37,7 +37,7 @@ pip install speechrecognition torch transformers scipy numpy
 ```
 Also ensure you have pyaudio installed for speech_recognition. If not:
 pip install pyaudio
-# or if it fails on Windows:
+## or if it fails on Windows:
 pip install pipwin
 pipwin install pyaudio
 How to Use
